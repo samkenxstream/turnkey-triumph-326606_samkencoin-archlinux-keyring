@@ -1,4 +1,5 @@
 # archlinux-keyring
+[![pipeline status](https://gitlab.archlinux.org/archlinux/archlinux-keyring/badges/master/pipeline.svg)](https://gitlab.archlinux.org/archlinux/archlinux-keyring/-/commits/master) [![coverage report](https://gitlab.archlinux.org/archlinux/archlinux-keyring/badges/master/coverage.svg)](https://gitlab.archlinux.org/archlinux/archlinux-keyring/-/commits/master)
 
 The archlinux-keyring project holds PGP packet material and tooling
 (`keyringctl`) to create the distribution keyring for Arch Linux.
